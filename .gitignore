@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Run artifacts — these belong in ~/Documents, never in the repo
+*-old-new-curl-comparison-*.html
+rows.json
+sqltrace.json
+new.json
+old.json
+
+.idea/
+.vscode/
